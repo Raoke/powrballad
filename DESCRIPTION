@@ -1,8 +1,9 @@
 Package: powrballad
-Title: What the Package Does (one line, title case)
+Title: Selecting optimal powerballad for kareoke
 Version: 0.0.0.9000
-Authors@R: "Roel M. Hogervorst <hogervorst.rm@gmail.com> [cre, aut]"
-Description: What the package does (one paragraph).
+Authors@R: c("Roel M. Hogervorst <hogervorst.rm@gmail.com> [cre, aut]", 
+"Kevin O'Brian [aut]", "Colin [cont]", "Lindsey Lee [cont]")
+Description: Finding the best song for Kareoke
 Depends: R (>= 3.3.3)
 License: MIT + file LICENSE
 Encoding: UTF-8
