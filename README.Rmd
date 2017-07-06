@@ -1,11 +1,9 @@
-# 
+## introducing the powRballad package
 
-The goal of  is to ...
+This package solves the most fundamental problem we all have
+when we walk into a kareokebar after UseR;
 
-## Example
+> what song to pick?
 
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-## basic example code
-```
+The powRballad package helps you in selecting the most optimal song based
+on you R-skill and Nationality.
