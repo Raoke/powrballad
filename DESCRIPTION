@@ -1,8 +1,13 @@
 Package: powrballad
 Title: Selecting optimal powerballad for kareoke
 Version: 0.0.0.9000
-Authors@R: c("Roel M. Hogervorst <hogervorst.rm@gmail.com> [cre, aut]", 
-"Kevin O'Brian [aut]", "Colin [cont]", "Lindsey Lee [cont]")
+Authors@R: c(
+person("Roel M.", "Hogervorst", , "hogervorst.rm@gmail.com", c("aut", "cre")), 
+person("Kevin", "O'Brian" , role = "aut"),
+person("Colin", "mcgillespie",role = "ctb"),
+person("Lindsey", "Lee",role ="ctb"),
+person("UseR2017",role ="his")
+)
 Description: Finding the best song for Kareoke
 Depends: R (>= 3.3.3)
 License: MIT + file LICENSE
