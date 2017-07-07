@@ -6,6 +6,10 @@ person("Roel M.", "Hogervorst", , "hogervorst.rm@gmail.com", c("aut", "cre")),
 person("Kevin", "O'Brian" , role = "aut"),
 person("Colin", "mcgillespie",role = "ctb"),
 person("Lindsey", "Lee",role ="ctb"),
+person("Joseph","Kliegman", role = "ctb"),
+person("Suni", "ctb"),
+person("Kees", "Mulder", role = "ctb"),
+person("Tinka", "Bakker", role = "ctb")
 person("UseR2017",role ="his")
 )
 Description: Finding the best song for Kareoke
