@@ -12,6 +12,16 @@ The powRballad package helps you in selecting the most optimal song based on you
 
 It has one function: `select_powerballad()`
 
+How to install
+--------------
+
+If you don' have devtools installed: 'install.packages('devtools')'
+
+Install from github with
+
+    library(devtools)
+    install_github('reoke/powrballad')
+
 adding to this package
 ----------------------
 
