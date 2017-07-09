@@ -1,20 +1,23 @@
 Package: powrballad
-Title: Selecting optimal powerballad for kareoke
+Title: Selecting an Optimal Powerballad for Kareoke
 Version: 0.0.0.9000
 Authors@R: c(
-person("Roel M.", "Hogervorst", , "hogervorst.rm@gmail.com", c("aut", "cre")), 
-person("Kevin", "O'Brian" , role = "aut"),
-person("Colin", "mcgillespie",role = "ctb"),
-person("Lindsey", "Lee",role ="ctb"),
-person("Joseph","Kliegman", role = "ctb"),
-person("Suni", "ctb"),
-person("Kees", "Mulder", role = "ctb"),
-person("Tinka", "Bakker", role = "ctb")
-person("UseR2017",role ="his")
-)
-Description: Finding the best song for Kareoke
+    person("Roel M.", "Hogervorst", , "hogervorst.rm@gmail.com", c("aut", "cre")), 
+    person("Kevin", "O'Brian" , role = "aut"),
+    person("Colin", "mcgillespie",role = "ctb"),
+    person("Lindsey", "Lee",role ="ctb"),
+    person("Joseph","Kliegman", role = "ctb"),
+    person("Suni","I don't know here last name", role = "ctb"),
+    person("Kees", "Mulder", role = "ctb"),
+    person("Tinka", "Bakker", role = "ctb"),
+    person("UseR2017",role = "his")
+    )
+Description: Finding the best song for Kareoke can be a problem. This package and
+    app will assist you by selecting a powerballad from a masterlist.
 Depends: R (>= 3.3.3)
 License: MIT + file LICENSE
+URL: https://github.com/Reoke/powrballad
+BugReports: https://github.com/Reoke/powrballad/issues
 Encoding: UTF-8
 LazyData: true
 Suggests: covr,
@@ -22,3 +25,4 @@ Suggests: covr,
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+RoxygenNote: 6.0.1
