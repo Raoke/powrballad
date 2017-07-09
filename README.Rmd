@@ -36,7 +36,7 @@ install_github('reoke/powrballad')
 
 ## adding to this package
 If you feel like we missed a critical powerballad or misspelled something (likely) add it to 
-the textfile which can be found in <inst/extdata/powerballads.txt>
+the textfile which can be found in [inst/extdata/powerballads.txt](inst/extdata/powerballads.txt)
 if you add more then one song, add yourself to the description file as well. use this format:
 
 `person("firstname","lastname", role = "ctb")` *ctb means contributor*
