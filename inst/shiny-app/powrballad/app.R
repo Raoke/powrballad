@@ -1,4 +1,6 @@
 library(shiny)
+if(!require(powrballad))devtools::install_github("Raoke/powrballad")
+library(powrballad)
 server <- function(input, output) {
     observeEvent(
         input$random_song_selector, {
