@@ -1,4 +1,4 @@
-library(powrballad)
+library(shiny)
 server <- function(input, output) {
     observeEvent(
         input$random_song_selector, {
