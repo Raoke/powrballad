@@ -10,6 +10,7 @@ Authors@R: c(
     person("Suni","I don't know here last name", role = "ctb"),
     person("Kees", "Mulder", role = "ctb"),
     person("Tinka", "Bakker", role = "ctb"),
+    person("Ravi", "Selker", role = "ctb"),
     person("UseR2017",role = "his")
     )
 Description: Finding the best song for Kareoke can be a problem. This package and
