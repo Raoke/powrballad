@@ -1,5 +1,5 @@
 
-[![codecov](https://codecov.io/gh/Reoke/powrballad/branch/master/graph/badge.svg)](https://codecov.io/gh/Reoke/powrballad) [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/powRballad)](https://cran.r-project.org/package=powRballad) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/) [![Build Status](https://travis-ci.org/Reoke/powrballad.svg?branch=master)](https://travis-ci.org/Reoke/powrballad) [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
+[![codecov](https://codecov.io/gh/Raoke/powrballad/branch/master/graph/badge.svg)](https://codecov.io/gh/Reoke/powrballad) [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/powRballad)](https://cran.r-project.org/package=powRballad) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/) [![Build Status](https://travis-ci.org/Raoke/powrballad.svg?branch=master)](https://travis-ci.org/Reoke/powrballad) [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
 
 Introducing the powRballad package
 ----------------------------------
@@ -11,6 +11,8 @@ This package solves the most fundamental problem we all have when we walk into a
 The powRballad package helps you in selecting the most optimal song based on you R-skill and Nationality.
 
 It has one function: `select_powerballad()`
+
+We've also created an app that you can use online.
 
 How to install
 --------------
