@@ -26,3 +26,4 @@ Suggests: covr,
     rmarkdown
 VignetteBuilder: knitr
 RoxygenNote: 6.0.1
+Imports: shiny
