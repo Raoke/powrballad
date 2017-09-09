@@ -27,13 +27,3 @@ select_powerballad <- function(){
 # ballads <- read.delim("inst/extdata/powerballads.txt", header = FALSE, skip = 1,stringsAsFactors = FALSE )
 # devtools::use_data(ballads,internal = FALSE,overwrite = TRUE)
 
-
-#' @export
-runExample <- function() {
-    appDir <- system.file("shiny-app", "powrballad", package = "powrballad")
-    if (appDir == "") {
-        stop("Could not find example directory. Try re-installing `mypackage`.", call. = FALSE)
-    }
-
-    shiny::runApp(appDir, display.mode = "normal")
-}
